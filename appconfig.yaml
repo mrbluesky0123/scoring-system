@@ -1,0 +1,13 @@
+Redis:
+  host: 198.13.47.188
+  port: 9762
+  session-timeout: 1200
+
+Game:
+  max-rank: 10
+
+Database:
+  host: 198.13.47.188
+  port: 19762
+  username: mrbluesky
+  password: kang12!@
